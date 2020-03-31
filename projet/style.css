@@ -1,0 +1,57 @@
+
+body{
+    Background-color: #2D8051  ;
+
+    margin : 0 ; 
+}
+
+
+.nav-link{
+    font-size: 40px;  
+}
+
+
+.nav-item{
+    margin-right: 20%;
+    
+    
+}
+.navbar-brand{
+    margin-left:0px;
+}
+
+#who{
+    font-size: 30px;
+    color:white;
+}
+    .c{
+        margin:20px;
+        width: 26%;
+        height: 300px;
+        
+    
+    }
+    .cent{
+        display:flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    #im1{
+        background-image: url("./images/lut.jpg");
+    }
+    #im2{
+        background-image: url("./images/stocking.png");
+    }
+    #im3{
+        background-image: url("./images/diner.jpg");
+    }
+    #im4{
+        background-image: url("./images/ol.jpg");
+    }
+    #im5{
+        background-image: url("./images/music.jpg");
+    }
+    #im6{
+        background-image: url("./images/frr.png");
+    }
